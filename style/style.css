@@ -8,14 +8,12 @@ body{
     background-size: cover;
 }
 
-#map{
-    display: block;
-    margin-left: auto;
-    margin-right: auto ;
-    width: 55%;
+h1{
+    text-align: center;
+    font-size: 2em;
 }
 
-picture > img{
+.twoimg{
     display: block;
     margin-left: auto;
     margin-right: auto ;
